@@ -24,7 +24,7 @@ const projects = [ {
       link: 'https://bejewelled-shortbread-4e8972.netlify.app/',
     },
     {
-      title: 'E-COMMERCSE SITE',
+      title: 'E-COMMERCE SITE',
       image: './images/ecomm',
       description: 'This E-commerce site is a basic front end React app Clone',
       tools: ['React','HTML','Css','Bootstarp'],
@@ -34,7 +34,7 @@ const projects = [ {
     {
       title: 'Nationalize API',
       image: './images/nation',
-      description: 'App is based on	By Searching the Name of Person, We get the response back by displaying the top two countries of Name and it also display the probability value..',
+      description: 'App is based on	by Searching the Name of Person, We get the response back by displaying the top two countries of Name and it also display the probability value..',
       tools: ['HTML','Css','Javascript'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://gilded-sprinkles-278914.netlify.app',
