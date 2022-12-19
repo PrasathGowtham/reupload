@@ -10,8 +10,8 @@ const projects = [ {
     {
       title: 'MOVIEE TICKET BOOKING APP',
       image: './images/ticket',
-      description: ' A Ticket booking app is a model of Moviee ticket booking app ',      
-      tools: ['React','Node Js', 'bcrypt', 'MongoDB', 'Express','JWT' ,'Express'],
+      description: ' A Basic Ticket booking app in which user can book a ticket ',      
+      tools: ['React','Node Js', 'bcrypt', 'MongoDB', 'Express','JWT' ,'Express Js'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://tranquil-starship-e35c05.netlify.app/#s',
     },
@@ -24,9 +24,9 @@ const projects = [ {
       link: 'https://bejewelled-shortbread-4e8972.netlify.app/',
     },
     {
-      title: 'E-COMMERSE SITE',
+      title: 'E-COMMERCSE SITE',
       image: './images/ecomm',
-      description: 'This E-commerse site is a basic front end React app Clone',
+      description: 'This E-commerce site is a basic front end React app Clone',
       tools: ['React','HTML','Css','Bootstarp'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://rad-churros-eac9aa.netlify.app/?#',
