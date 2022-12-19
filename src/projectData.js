@@ -8,7 +8,7 @@ const projects = [ {
   link: 'https://warm-clafoutis-f07e0d.netlify.app/',
 },
     {
-      title: 'MOVIEE TICKET BOOKING APP',
+      title: 'MOVIE TICKET BOOKING APP',
       image: './images/ticket',
       description: ' A Basic Ticket booking app in which user can book a ticket ',      
       tools: ['React','Node Js', 'bcrypt', 'MongoDB', 'Express','JWT' ,'Express Js'],
