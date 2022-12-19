@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from '../components/GOWTHAM PRASATH RADHAKRISHNAN.pdf'
+import pdf from '../components/Gowtham25.pdf'
 const Header = () => {
   return (
     <nav className='space-x-10'>
