@@ -17,7 +17,7 @@ const projects = [ {
     }, {
       title: 'TODO LIST APP',
       image: './images/todo',
-      description: 'To Do is a task management app to help you stay organized and manage your day-to-day. ,
+      description: 'ToDo App is a task management app to help you stay organized and manage your day-to-day'. ,
       tools: ['React','Node Js', 'bcrypt', 'MongoDB', 'Express','JWT' ,'Express','Material UI'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://delightful-zuccutto-ddade3.netlify.app/',
