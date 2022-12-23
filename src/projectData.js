@@ -14,6 +14,13 @@ const projects = [ {
       tools: ['React','Node Js', 'bcrypt', 'MongoDB', 'Express','JWT' ,'Express Js'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://tranquil-starship-e35c05.netlify.app/#s',
+    }, {
+      title: 'TODO LIST APP',
+      image: './images/ecomm',
+      description: 'To Do is a task management app to help you stay organized and manage your day-to-day. ,
+      tools: ['React','Node Js', 'bcrypt', 'MongoDB', 'Express','JWT' ,'Express','Material UI'],
+      github: 'https://github.com/PrasathGowtham',
+      link: 'https://delightful-zuccutto-ddade3.netlify.app/',
     },
     {
       title: 'DASH BOARD CLONE',
@@ -23,14 +30,7 @@ const projects = [ {
       github: 'https://github.com/PrasathGowtham',
       link: 'https://bejewelled-shortbread-4e8972.netlify.app/',
     },
-    {
-      title: 'E-COMMERCE SITE',
-      image: './images/ecomm',
-      description: 'This E-commerce site is a basic front end React app Clone',
-      tools: ['React','HTML','Css','Bootstarp'],
-      github: 'https://github.com/PrasathGowtham',
-      link: 'https://rad-churros-eac9aa.netlify.app/?#',
-    },
+   
     {
       title: 'Nationalize API',
       image: './images/nation',
