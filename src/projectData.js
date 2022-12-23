@@ -16,7 +16,7 @@ const projects = [ {
       link: 'https://tranquil-starship-e35c05.netlify.app/#s',
     }, {
       title: 'TODO LIST APP',
-      image: './images/ecomm',
+      image: './images/todo',
       description: 'To Do is a task management app to help you stay organized and manage your day-to-day. ,
       tools: ['React','Node Js', 'bcrypt', 'MongoDB', 'Express','JWT' ,'Express','Material UI'],
       github: 'https://github.com/PrasathGowtham',
