@@ -22,7 +22,7 @@ const Hero = () => {
         <div className='container' ref={container}></div>
       </div>
       <div className='max-w-md mb-auto space-y-5'>
-        <h1 className='text-5xl font-bold md:text-7xl'>Hello, I am Gowtham Prasath</h1>
+        <h1 className='text-5xl font-bold md:text-6xl'>Hi, I am Gowtham Prasath</h1>
         <p className='tracking-wide leading-relaxed'>
         About a years ago I decided to change  my career.I really love learning, So I self taught how to code and I started with HTML5 and CSS3. I Started my Foundation in  Full Stack devolepment Course (MERN) in Guvi Geek Institute from June 2022 to Oct 2022 before my Full Stack Course I had Graduated  B.E Civil Engineering in the year 2018, and  worked as site Engineer in Apexinfralink limited till May 2022.      </p>
       </div>
