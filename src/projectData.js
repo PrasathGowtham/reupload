@@ -22,6 +22,14 @@ const projects = [ {
       github: 'https://github.com/PrasathGowtham',
       link: 'https://delightful-zuccutto-ddade3.netlify.app/',
     },
+                    {
+      title: 'STUDENT DASHBOARD',
+      image: './images/admin',
+      description: 'This app is used to moniter and manage the student and mentor list for small institutes ',
+      tools:['React','Node.Js','Express.Js','MongoDB', 'Bootstrap'],
+      github: 'https://github.com/PrasathGowtham',
+      link: 'https://starlit-meerkat-fe95f7.netlify.app/students',
+    },
     {
       title: 'DASH BOARD CLONE',
       image: './images/dashbord',
@@ -29,16 +37,9 @@ const projects = [ {
       tools: ['React','HTML','Css','Bootstarp'],
       github: 'https://github.com/PrasathGowtham',
       link: 'https://bejewelled-shortbread-4e8972.netlify.app/',
-    },
+    }
    
-    {
-      title: 'Nationalize API',
-      image: './images/nation',
-      description: 'App is based on	by Searching the Name of Person, We get the response back by displaying the top two countries of Name and it also display the probability value..',
-      tools: ['HTML','Css','Javascript'],
-      github: 'https://github.com/PrasathGowtham',
-      link: 'https://gilded-sprinkles-278914.netlify.app',
-    },
+  
   ];
   
   export default projects;
