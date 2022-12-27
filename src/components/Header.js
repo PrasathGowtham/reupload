@@ -10,6 +10,12 @@ const Header = () => {
           </a>
         </li>
         <li>
+      <li>
+          <a href='#skill' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
+            Skills
+          </a>
+        </li>
+        <li>
           <a href='#contact' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
             Contact
           </a>
