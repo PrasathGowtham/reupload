@@ -9,7 +9,7 @@ const Header = () => {
             Projects
           </a>
         </li>
-        <li>
+       
       <li>
           <a href='#skill' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
             Skills
