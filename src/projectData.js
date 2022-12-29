@@ -28,7 +28,7 @@ const projects = [ {
       description: 'This app is used to moniter and manage the student and mentor list for small institutes ',
       tools:['React','Node.Js','Express.Js','MongoDB', 'Bootstrap'],
       github: 'https://github.com/PrasathGowtham',
-      link: 'https://starlit-meerkat-fe95f7.netlify.app/students',
+      link: 'https://starlit-meerkat-fe95f7.netlify.app',
     },
     {
       title: 'DASH BOARD CLONE',
